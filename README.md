@@ -4,7 +4,7 @@
 
 I build reliable backend platforms, observable cloud systems, and reproducible ML infrastructure. My current work focuses on Go and Java services, Kubernetes, delivery semantics, telemetry, and evidence-first AI engineering.
 
-[Portfolio](https://ajay-dev-engineer.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ajay-kumar-pondugala-3b3b711b8/) · [Email](mailto:ajaykumar.rob27@gmail.com)
+[Live portfolio](https://ajaykr-engineering-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ajay-kumar-pondugala-3b3b711b8/) · [Email](mailto:ajaykumar.rob27@gmail.com)
 
 ## Current work
 
@@ -21,7 +21,7 @@ I build reliable backend platforms, observable cloud systems, and reproducible M
 
 | Project | What it proves | Status |
 | --- | --- | --- |
-| [Engineering Portfolio](https://github.com/ajaykr0905/ajay-engineering-portfolio) | Recruiter-first case studies with explicit evidence and limitations | Ready locally |
+| [Engineering Portfolio](https://ajaykr-engineering-portfolio.vercel.app) ([source](https://github.com/ajaykr0905/ajay-engineering-portfolio)) | Recruiter-first case studies with explicit evidence and limitations | Live |
 | [Fault-Tolerant Transformer Lab](https://github.com/ajaykr0905/fault-tolerant-transformer-lab) | Gradient checks, atomic checkpoints, deterministic restart equivalence | Building |
 | [Distributed Scale Validation Lab](https://github.com/ajaykr0905/distributed-scale-validation-lab) | Concurrent workers, idempotency, bounded retries, dead letters, synthetic load runs | Runnable lab |
 | [VoiceMed AI](https://github.com/ajaykr0905/voicemed-ai) | Provider adapters, strict clinical schemas, no-key demo, mandatory review gate | Building |
