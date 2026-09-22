@@ -1,6 +1,6 @@
 # Ajay Kumar Pondugala
 
-**Distributed Systems and AI Infrastructure Engineer**
+**Distributed Systems Engineer**
 
 I build reliable backend platforms, observable cloud systems, and reproducible ML infrastructure. My current work focuses on Go and Java services, Kubernetes, delivery semantics, telemetry, and evidence-first AI engineering.
 
