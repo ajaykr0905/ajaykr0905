@@ -1,4 +1,4 @@
-# Ajay Kumar Pondugala
+# Ajay
 
 **Distributed Systems Engineer**
 
