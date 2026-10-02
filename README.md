@@ -6,6 +6,8 @@ I build reliable backend platforms, observable cloud systems, and reproducible M
 
 [Live portfolio](https://ajaykr-engineering-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ajay-kumar-pondugala-3b3b711b8/) · [Email](mailto:ajaykumar.rob27@gmail.com)
 
+Earlier GitHub work: [@ajaykr2712](https://github.com/ajaykr2712).
+
 [![AI Journey CI](https://github.com/ajaykr0905/ai-journey/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ajaykr0905/ai-journey/actions/workflows/ci.yml)
 [![Transformer Lab CI](https://github.com/ajaykr0905/fault-tolerant-transformer-lab/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ajaykr0905/fault-tolerant-transformer-lab/actions/workflows/ci.yml)
 [![Scale Lab CI](https://github.com/ajaykr0905/distributed-scale-validation-lab/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ajaykr0905/distributed-scale-validation-lab/actions/workflows/ci.yml)
