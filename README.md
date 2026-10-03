@@ -22,7 +22,10 @@ Earlier GitHub work: [@ajaykr2712](https://github.com/ajaykr2712).
 
 ## Open source
 
-- [TorchTitan PR #4864](https://github.com/pytorch/torchtitan/pull/4864) moves reinforcement-learning tests into the CPU-safe suite and prevents optional vLLM dependencies from breaking package imports. The focused suite passes 147 tests; the PR is awaiting maintainer review and approval of its requested CI workflows.
+- **Merged:** [NATS Python PR #1043](https://github.com/nats-io/nats.py/pull/1043) preserves explicit passwords alongside signed CONNECT credentials. A maintainer reviewed and merged it on 1 October 2026.
+- **Under review:** [SkyPilot PR #10940](https://github.com/skypilot-org/skypilot/pull/10940) rejects unreadable internal job configurations; [Prometheus PR #19882](https://github.com/prometheus/prometheus/pull/19882) restores firing alerts across restarts without imposing another short `for` wait.
+- **Under review:** [TorchTitan PR #4912](https://github.com/pytorch/torchtitan/pull/4912) tightens decoder configuration typing; [Higgsfield Skills PR #12](https://github.com/higgsfield-ai/skills/pull/12) makes skill frontmatter portable to Codex and validates it in CI.
+- **Closed, not merged:** [TorchTitan PR #4864](https://github.com/pytorch/torchtitan/pull/4864) was superseded by upstream RL CI work. It is not counted as an accepted contribution.
 - [Public pull requests](https://github.com/pulls?q=is%3Apr+author%3Aajaykr0905) track work submitted for external review.
 
 ## Core stack
