@@ -1,6 +1,6 @@
 # Ajay Kumar Pondugala
 
-**Software Engineer II at Cisco | Backend & Distributed Systems | Go, Java, PostgreSQL, Kubernetes**
+**Software Engineer at Cisco | Backend & Distributed Systems | Go, Java, PostgreSQL, Kubernetes**
 
 Bengaluru, India. I build and debug backend services, messaging workflows, durable state, and observable Kubernetes systems. My public engineering work focuses on failure recovery, safe retries, resource lifecycle, and reproducible tests.
 
